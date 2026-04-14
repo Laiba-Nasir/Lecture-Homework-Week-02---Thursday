@@ -88,7 +88,7 @@ initial begin
         $display("Failed tests");
     end
 
-    $finish();
+    $finish;
 end
 
 endmodule
